@@ -28,15 +28,15 @@ Guess a letter:  <br/>
 <br />
 <br />
 Incorrect Guess: <br/>
-<img src="https://imgur.com/RTHsPFd" height="80%" width="80%" alt="Hang Man Walkthrough"/>
+<img src="https://imgur.com/RTHsPFd.png" height="80%" width="80%" alt="Hang Man Walkthrough"/>
 <br />
 <br />
 A win:  <br/>
-<img src="https://imgur.com/i66dINx" height="80%" width="80%" alt="Hang Man Walkthrough"/>
+<img src="https://imgur.com/i66dINx.png" height="80%" width="80%" alt="Hang Man Walkthrough"/>
 <br />
 <br />
 A loss:  <br/>
-<img src="https://imgur.com/8k7aabp" height="80%" width="80%" alt="Hang Man Walkthrough"/>
+<img src="https://imgur.com/8k7aabp.png" height="80%" width="80%" alt="Hang Man Walkthrough"/>
 <br />
 <br />
 
